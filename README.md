@@ -21,7 +21,7 @@ Home screen has a top navigation bar with the following features:
 Home Screen has four basic features. But most of them are locked behind a login page. A user having an account would be able to access these features
 
 
-## Register/Login
+# Register/Login
 Login   
 User will be asked to enter their email address and their password.  
 
@@ -41,7 +41,7 @@ User will be asked to enter the following things to successfully create an accou
 - Accepting the terms and conditions
 
 
-## Edit profile
+# Edit profile
 The user also has the ability to edit and update the information that they had entered while creating the account.   
 
 Simply, click on your profile and then click the edit button. 
@@ -56,7 +56,7 @@ Home Screen has four basic features:
 - Delete/Download Documents
 - Shop for medicine
 
-## Search 
+# Search 
 The search feature can be accessed from the home screen. 
 After clicking on it, the user is asked to enter information in two queries.   
 
@@ -66,13 +66,13 @@ After filling these queries, simply clicking on the search button would provide 
 Users can browse through this list and view the search queries in detail.
 
 
-##Upload Documents
+# Upload Documents
 Users can upload any medical document of their choice. The documents can be some receipt, prescription provided by a doctor, test results and so on.
 They can drag and drop any file of their choice. The file can be an image or some written document. The accepted file formats are jpg, jpeg, png, pdf, doc. 
 They can also specifically browse a file from their system using 'Select file' button.
 
 
-##Delete Documents
+# Delete Documents
 A list of uploaded documents will be displayed after clicking on this feature.  
 The list would have the names of the upload files with two buttons in adjacent to it.    
 
@@ -80,7 +80,7 @@ The list would have the names of the upload files with two buttons in adjacent t
 - Download: This would help users download any specific file to their system, to view or store it.
 
 
-##Shop for medicine
+# Shop for medicine
 This would a display an inventory of all the drugs, medicines and other medical equipments that are available for sale.  
 Each product would have the following distinctive properties:  
 
@@ -92,7 +92,7 @@ Clicking on a product would lead users to a page which would have a proper descr
 An 'Add to Cart' button would also be displayed on this description page. Clicking this would add that product to the cart.
 
 
-###Cart 
+# Cart 
 The cart has the following  attributes:  
 
 - Name of the product which has been added to cart.
@@ -103,7 +103,7 @@ The cart has the following  attributes:
 - Clear: To empty the cart.
 
 
-## Checkout page 
+# Checkout page 
 Once the user has finalized their choice of products, they will click the 'Checkout' button in their cart to pay for their products.
 From this, users will be asked to fill in the basic details for delivery of the bought products.  
 
@@ -113,7 +113,7 @@ From this, users will be asked to fill in the basic details for delivery of the 
 - Address on which the product has to be delivered. 
 All the above attributes are necessary to be filled for a proper delivery.
 
-###Payment Gateway 
+# Payment Gateway 
 A Paytm gateway opens, asking for an option to pay
 - Net Banking
 - Credit or Debit card 

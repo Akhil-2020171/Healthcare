@@ -98,7 +98,7 @@ const edit = () => {
         rtl={false}
         pauseOnFocusLoss
         draggable
-        pauseOnHover
+        pauseOnHover={false}
         theme="light"
       />
       <div class="min-h-screen  flex items-center justify-center flex-col">

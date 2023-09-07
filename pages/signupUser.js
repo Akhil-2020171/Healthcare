@@ -203,7 +203,7 @@ const Signup = () => {
         rtl={false}
         pauseOnFocusLoss
         draggable
-        pauseOnHover
+        pauseOnHover={false}
         theme="light"
       />
       {isOTPField ? (

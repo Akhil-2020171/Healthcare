@@ -183,7 +183,7 @@ const forgot = () => {
         rtl={false}
         pauseOnFocusLoss
         draggable
-        pauseOnHover
+        pauseOnHover={false}
         theme="light"
       />
       {!addNewPass ? (

@@ -142,14 +142,14 @@ const Admin = () => {
     <div>
       <ToastContainer
         position="top-left"
-        autoClose={5000}
+        autoClose={3000}
         hideProgressBar={false}
         newestOnTop={false}
         closeOnClick
         rtl={false}
         pauseOnFocusLoss
         draggable
-        pauseOnHover
+        pauseOnHover={false}
         theme="light"
       />
       {isLogged ? (

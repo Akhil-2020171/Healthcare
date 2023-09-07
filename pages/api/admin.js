@@ -28,7 +28,7 @@ const handle = async (req,res) =>{
 
                 else if(password==StoredPassword && email==StoredEmail){
                     // console.log(bodyJson);
-                    var token = jwt.sign({name:result.name, phone:result.number ,email:result.email},"JwtSecret256",{expiresIn:"1h"});
+                    var token = jwt.sign({name:result.name, phone:result.number ,email:result.email, role:"admin"},"JwtSecret256",{expiresIn:"1h"});
                     return res.status(200).json({success:true,token});
                 }
 
